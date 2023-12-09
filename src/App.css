@@ -36,3 +36,9 @@
 .relative{
   position: relative;
 }
+.center{
+  color: aqua;
+  text-align: center;
+  margin-top: 500px;
+  align-items: center;
+}
