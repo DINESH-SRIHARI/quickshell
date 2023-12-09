@@ -1,5 +1,4 @@
 ## Project View
 
-<kbd>![](https://res.cloudinary.com/anshumxn09/image/upload/v1692799526/test/quickSell2_pjyru9.png)</kbd>
+![image](https://github.com/DINESH-SRIHARI/quickshell/assets/123197525/62a32ef1-d1d4-4fa9-aa90-8772617779da)
 
-<kbd>![](https://res.cloudinary.com/anshumxn09/image/upload/v1692799514/test/quickSell_nycbcs.png)</kbd>
